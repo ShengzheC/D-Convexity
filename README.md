@@ -76,16 +76,4 @@ cgpm_output = SegCGPM(images)
 ```
 
 Please refer to `CGPM.py` for details on initialization and usage.
-
-## Citation
-
-If you find this repository useful, please consider citing our paper:
-
-```bibtex
-@inproceedings{dconvexity2026,
-  title={D-Convexity: A Unified Differentiable Convex Shape Prior via Quasi-Concavity for Data-driven Image Segmentation},
-  author={Shengzhe Chen, Hao Yan},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2026}
-}
 ```
