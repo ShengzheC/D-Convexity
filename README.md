@@ -76,4 +76,3 @@ cgpm_output = SegCGPM(images)
 ```
 
 Please refer to `CGPM.py` for details on initialization and usage.
-```
