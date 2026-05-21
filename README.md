@@ -6,6 +6,8 @@ Official implementation of **CVPR 2026 Highlight Paper**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.19210-b31b1b.svg)](https://arxiv.org/abs/2605.19210)
 
+[[Paper](https://arxiv.org/abs/2605.19210)] [[PDF](https://arxiv.org/pdf/2605.19210)]
+
 ## Overview
 
 This repository provides the official implementation of **D-Convexity**, a unified differentiable convex shape prior based on quasi-concavity for data-driven image segmentation.
