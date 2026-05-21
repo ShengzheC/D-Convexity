@@ -1,6 +1,6 @@
 # D-Convexity
 
-Official implementation of **CVPR 2026 Highlight Paper**:
+Official implementation of **CVPR 2026 Highlight Paper** https://arxiv.org/abs/2605.19210v1:
 
 > **D-Convexity: A Unified Differentiable Convex Shape Prior via Quasi-Concavity for Data-driven Image Segmentation**
 
